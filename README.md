@@ -31,25 +31,36 @@ O dataset Walmart está disponível no [Kaggle]( https://www.kaggle.com/competit
 
 ### 1. Qual é o impacto dos feriados (promoções também) nas vendas das lojas?
 
-![Group 2](https://user-images.githubusercontent.com/79377636/209346144-ed6652c7-5a07-4b4a-a675-367ba92bf8e3.png)
+<img src ="https://user-images.githubusercontent.com/79377636/209346682-9aac0224-713d-462b-8d82-850bd7d4d524.png"
+     height = "250px"/>
 
-![Group 1 (1)](https://user-images.githubusercontent.com/79377636/209346154-5dca18e7-6a88-471f-8dbb-57b519aaa76d.png)
+<img src ="https://user-images.githubusercontent.com/79377636/209346853-223a50e7-0103-40fa-9ddf-0b89e94a4da7.png"
+     height = "250px"/>
 
-![Group 3](https://user-images.githubusercontent.com/79377636/209346158-9b8a2104-884a-448b-b006-047f71d2cd93.png)
+<img src ="https://user-images.githubusercontent.com/79377636/209346995-870e5f54-534b-4719-b6b9-add26dbc618b.png"
+     height = "250px"/>
+     
+<img src ="https://user-images.githubusercontent.com/79377636/209347540-07f52676-09e4-4eaf-a830-4deb7d77f794.png"
+     height = "200px"/>
+
+A partir dos gráficos acima, podemos inferir que Labor Day não a aumento das vendas, assim o feriado podemos concluir que este feriado não tem forte impacto nas vendas.
+Já em Thanksgiving, podemos observar uma grande diferença no número de vendas, desta maneira um impacto positivo dos feriados nas vendas semanais. 
+Diferentemente ao Christmas, em que há uma pequena diferença nas vendas de forma negativa, resultado que indica um comportamento de compra antecipada dos consumidores.
 
 
-![Group 4 (1)](https://user-images.githubusercontent.com/79377636/209346682-9aac0224-713d-462b-8d82-850bd7d4d524.png)
+<img src ="https://user-images.githubusercontent.com/79377636/209346144-ed6652c7-5a07-4b4a-a675-367ba92bf8e3.png"
+     height = "200px"/>
+<img src ="https://user-images.githubusercontent.com/79377636/209346154-5dca18e7-6a88-471f-8dbb-57b519aaa76d.png"
+     height = "200px"/>
+<img src ="https://user-images.githubusercontent.com/79377636/209346158-9b8a2104-884a-448b-b006-047f71d2cd93.png"
+     height = "200px"/>
+     
 
-![Group 5](https://user-images.githubusercontent.com/79377636/209346853-223a50e7-0103-40fa-9ddf-0b89e94a4da7.png)
-
-![Group 6](https://user-images.githubusercontent.com/79377636/209346995-870e5f54-534b-4719-b6b9-add26dbc618b.png)
-
-
-![Group 8](https://user-images.githubusercontent.com/79377636/209347540-07f52676-09e4-4eaf-a830-4deb7d77f794.png)
 
 ### 2. Existe algum setor que desempenhe melhor?
 
 ![Group 7](https://user-images.githubusercontent.com/79377636/209347379-867076f7-5901-4951-957f-8f2b62f5c809.png)
+A partir do gráfico verifica-se que o departamento 92 tem uma média de vendas superior.
 
 ### 3. É possível estimar as vendas das lojas por semana em datas futuras de 2012–11–02 a 2013–07-26? Se sim, quais seriam esses valores?
 
