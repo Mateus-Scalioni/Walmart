@@ -29,9 +29,33 @@ O dataset Walmart está disponível no [Kaggle]( https://www.kaggle.com/competit
 
 ## Conclusão: 
 
-
 ### 1. Qual é o impacto dos feriados (promoções também) nas vendas das lojas?
+
+![Group 2](https://user-images.githubusercontent.com/79377636/209346144-ed6652c7-5a07-4b4a-a675-367ba92bf8e3.png)
+
+![Group 1 (1)](https://user-images.githubusercontent.com/79377636/209346154-5dca18e7-6a88-471f-8dbb-57b519aaa76d.png)
+
+![Group 3](https://user-images.githubusercontent.com/79377636/209346158-9b8a2104-884a-448b-b006-047f71d2cd93.png)
+
+
+![Group 4 (1)](https://user-images.githubusercontent.com/79377636/209346682-9aac0224-713d-462b-8d82-850bd7d4d524.png)
+
+![Group 5](https://user-images.githubusercontent.com/79377636/209346853-223a50e7-0103-40fa-9ddf-0b89e94a4da7.png)
+
+![Group 6](https://user-images.githubusercontent.com/79377636/209346995-870e5f54-534b-4719-b6b9-add26dbc618b.png)
+
+
+![Group 8](https://user-images.githubusercontent.com/79377636/209347540-07f52676-09e4-4eaf-a830-4deb7d77f794.png)
 
 ### 2. Existe algum setor que desempenhe melhor?
 
+![Group 7](https://user-images.githubusercontent.com/79377636/209347379-867076f7-5901-4951-957f-8f2b62f5c809.png)
+
 ### 3. É possível estimar as vendas das lojas por semana em datas futuras de 2012–11–02 a 2013–07-26? Se sim, quais seriam esses valores?
+
+![previsao_q3](https://user-images.githubusercontent.com/79377636/209345505-f7d7f354-fb14-4f24-8e8b-5593d025f8a3.png)
+
+![tendencia_q3](https://user-images.githubusercontent.com/79377636/209345614-0d2963d6-d25e-4b3f-bf75-5b531dfe0c0e.png)
+
+
+
