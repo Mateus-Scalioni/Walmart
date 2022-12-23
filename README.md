@@ -30,6 +30,8 @@ O dataset Walmart está disponível no [Kaggle]( https://www.kaggle.com/competit
 ## Conclusão: 
 
 ### 1. Qual é o impacto dos feriados (promoções também) nas vendas das lojas?
+Para verificar o impacto dos feriados optei por começar vendo as correlações através da técnica de 
+
 
 <img src ="https://user-images.githubusercontent.com/79377636/209346682-9aac0224-713d-462b-8d82-850bd7d4d524.png"
      height = "250px"/>
